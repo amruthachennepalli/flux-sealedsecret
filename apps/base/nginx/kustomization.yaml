@@ -8,3 +8,4 @@ resources:
   - namespace.yaml  
   - release.yaml
   - mysqlrelease.yaml
+  - sealed.yaml
