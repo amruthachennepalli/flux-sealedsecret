@@ -9,3 +9,4 @@ resources:
   - release.yaml
   - mysqlrelease.yaml
   - sealed.yaml
+  - sealedrelease.yaml
